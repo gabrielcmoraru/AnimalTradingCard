@@ -1,0 +1,57 @@
+h1 {
+	padding-left: 10px;
+	color: 	#ec2400;
+	font-family: Helvetica;
+}
+
+img {
+	border-radius: 15px;
+	padding: 10px;
+}
+
+span {
+	font-weight: bold;
+}
+
+li {
+	list-style-type: none;
+	}
+
+ul {
+	margin: 0;
+	padding: 0;
+}
+.shadow{
+	border-radius: 15px;
+	width: 340px;
+	box-shadow: 10px 10px 20px;
+}
+
+.main{
+	font-family: Helvetica;
+	font-size: 15px;
+	border-style: solid ;
+	border-radius: 15px;
+	width: 320px;
+	padding: 10px;
+	border-color: black;
+	background-color: silver;
+	box-shadow: inset 0 0 35px #085;
+
+}
+
+.fact {
+	font-style: italic;
+	color: white;
+}
+
+.information {
+	color: white;
+	border-style: groove;
+	max-width: 300px;
+	border-radius: 10px;
+	border-color: black;
+	background-color: gray;
+	padding: 10px;
+	margin: 10px;
+}
